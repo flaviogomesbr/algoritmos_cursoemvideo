@@ -1,1 +1,1 @@
-# algoritmos.guanabara
+# Curso algoritmos Gustavo Guanabara
