@@ -6,7 +6,7 @@
 
 ## Sobre 
 
-Exerícios e desafios do curso "Algoritmos" da plataforma Curso em Vídeo do Gustavo Guanabara.
+Exercícios e desafios do curso "Algoritmos" da plataforma Curso em Vídeo do Gustavo Guanabara.
 
 - [Link do curso](https://www.cursoemvideo.com/course/curso-de-algoritmo/) <br>
 
