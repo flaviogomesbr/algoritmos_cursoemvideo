@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Estudos Lógica de Programação e Algoritmos</h1>
-    <img width=250 src='https://4.bp.blogspot.com/--i_TrV-srFI/VvjQWx5vbFI/AAAAAAAARD0/oRb9U9rZObkXxnUygLgz--s_JdGxAUalQ/s1600/BANNER.jpg'>
+    <img width=250 src='https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/algoritmos-circle.jpg'>
 </div>
 
 
