@@ -1,5 +1,5 @@
 algoritmo "Aula14_Ex.08-Turma - Ordenação de vetores para 10 itens"
-// Função : Rotina 2 - Vetores
+// Função : Rotina 3 - Vetores
 // Autor : Flavio Gomes
 // Data : 06/09/2021
 // Seção de Declarações
