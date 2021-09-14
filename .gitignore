@@ -1,4 +1,6 @@
 *.pdf
+*.pptx
+*.ppt
 ./*.pptx
 Aula_06/*.pptx
 Aula_07/*.pptx
