@@ -18,7 +18,7 @@ Exercícios e desafios do curso "Javascript" da plataforma Curso em Vídeo (prof
 
 ## Executando os códigos
 ```bash
-# Com o programa VisualG instalado, abrir os arquivos extensão ".alg" e digitar F9 (executar) ou F8 (debugar passo a passo) e lançar informações solicitas no terminal
+# Com o programa VisualG instalado, abrir os arquivos extensão ".alg" e digitar F9 (executar) ou F8 (debugar passo a passo) e lançar informações solicitadas no terminal
 ```
 ```bash
 # Com o programa Scratch instalado, abrir os arquivos extensão "".sb2" e clicar no botão “Tela cheia” e em seguida em “Iniciar"
