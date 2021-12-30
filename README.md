@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Estudos Lógica de Programação e Algoritmos - Curso em Vídeo</h1>
+    <h1>Lógica de Programação e Algoritmos - Curso em Vídeo</h1>
     <img width=150 src='https://i.ytimg.com/vi/kM9ASKAni_s/maxresdefault.jpg'>
     <img width=250 src='https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png'>
 </div>
