@@ -1,14 +1,3 @@
-////*.pdf
-*.pptx
-*.ppt
-./*.pptx
-Aula_06/*.pptx
-Aula_07/*.pptx
-Aula_08/*.pptx
-Aula_09/*.pptx
-Aula_10/*.pptx
-AULA_11/Aula11.pptx
-AULA_12/Aula12.pptx
-AULA_13/Aula13.pptx
-AULA_14/Aula14.pptx
+# ignora quaisquer diretórios chamados "Anotacoes&Avaliacao"
 
+Anotacoes&Avaliacao/
